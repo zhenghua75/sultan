@@ -51,6 +51,7 @@
 #include "checkstock/checkstockwidget.h"
 #include "initialstock/initialstockwidget.h"
 #include "unit/unitwidget.h"
+#include "test/testdialog.h"
 #include "preference.h"
 #include "global_setting_const.h"
 #include <QShortcut>
@@ -159,6 +160,9 @@ void MainWindow::setupConnection()
     connect(ui->action_Check_Stock, SIGNAL(triggered(bool)), SLOT(openCheckStock()));
     connect(ui->actionInitial_Stock, SIGNAL(triggered(bool)), SLOT(openInitialStock()));
     connect(ui->actionUnits, SIGNAL(triggered(bool)), SLOT(openUnit()));
+#ifdef ENABLE_TEST
+    new QShortcut(QKeySequence(Qt::CTRL + Qt::Key_F5), this, SLOT(openInsertTest()));
+#endif
 }
 
 void MainWindow::showWindowFullScreen()
@@ -443,4 +447,10 @@ void MainWindow::openUnit()
         auto widget = new UnitWidget(mMessageBus, this);
         ui->tabWidget->tbnAddTab(widget, tr("Unit"), ":/images/16x16/ruler.png");
     }
+}
+
+void MainWindow::openInsertTest()
+{
+    TestDialog dialog(mMessageBus, this);
+    dialog.exec();
 }

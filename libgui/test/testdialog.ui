@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>TestDialog</class>
+ <widget class="QDialog" name="TestDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>613</width>
+    <height>462</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QGroupBox" name="groupBuy">
+     <property name="title">
+      <string>Buy</string>
+     </property>
+     <property name="checkable">
+      <bool>true</bool>
+     </property>
+     <layout class="QFormLayout" name="formLayout">
+      <property name="labelAlignment">
+       <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+      </property>
+      <item row="0" column="0">
+       <widget class="QLabel" name="label">
+        <property name="text">
+         <string>Data</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="0">
+       <widget class="QLabel" name="label_3">
+        <property name="text">
+         <string>Frequently (second)</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="1">
+       <widget class="QSpinBox" name="spinBuy">
+        <property name="minimum">
+         <number>1</number>
+        </property>
+        <property name="maximum">
+         <number>1000</number>
+        </property>
+        <property name="value">
+         <number>5</number>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="1">
+       <widget class="QPlainTextEdit" name="plainBuy">
+        <property name="plainText">
+         <string>{
+	&quot;data1&quot;: {
+		&quot;number&quot;: &quot;NUMBER-001&quot;,
+		&quot;suplier_id&quot;: 1,
+		&quot;deadline&quot;: &quot;2017-08-30&quot;,
+		&quot;payment_type&quot;: 0,
+		&quot;discount_formula&quot;: &quot;&quot;,
+		&quot;user_id&quot;: 1,
+		&quot;machine_id&quot;: 1,
+		&quot;bank_id&quot;: 0
+	},
+	&quot;data2&quot;: [
+		{
+			&quot;count&quot;: 10,
+			&quot;price&quot;: 5000,
+			&quot;total&quot;: 50000,
+			&quot;discount_formula&quot;: &quot;&quot;,
+			&quot;discount&quot;: 0,
+			&quot;final&quot;: 50000,
+			&quot;buy_price&quot;: 4500,
+			&quot;barcode&quot;: &quot;123&quot;
+		},
+		{
+			&quot;count&quot;: 10,
+			&quot;price&quot;: 5000,
+			&quot;total&quot;: 50000,
+			&quot;discount_formula&quot;: &quot;&quot;,
+			&quot;discount&quot;: 0,
+			&quot;final&quot;: 50000,
+			&quot;buy_price&quot;: 4500,
+			&quot;barcode&quot;: &quot;234&quot;
+		},
+		{
+			&quot;count&quot;: 10,
+			&quot;price&quot;: 5000,
+			&quot;total&quot;: 50000,
+			&quot;discount_formula&quot;: &quot;&quot;,
+			&quot;discount&quot;: 0,
+			&quot;final&quot;: 50000,
+			&quot;buy_price&quot;: 4500,
+			&quot;barcode&quot;: &quot;456&quot;
+		},
+		{
+			&quot;count&quot;: 10,
+			&quot;price&quot;: 5000,
+			&quot;total&quot;: 50000,
+			&quot;discount_formula&quot;: &quot;&quot;,
+			&quot;discount&quot;: 0,
+			&quot;final&quot;: 50000,
+			&quot;buy_price&quot;: 4500,
+			&quot;barcode&quot;: &quot;567&quot;
+		}
+	]
+}</string>
+        </property>
+        <property name="tabStopWidth">
+         <number>20</number>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item>
+    <widget class="QGroupBox" name="groupSell">
+     <property name="title">
+      <string>Sell</string>
+     </property>
+     <property name="checkable">
+      <bool>true</bool>
+     </property>
+     <layout class="QFormLayout" name="formLayout_2">
+      <property name="labelAlignment">
+       <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+      </property>
+      <item row="0" column="0">
+       <widget class="QLabel" name="label_2">
+        <property name="text">
+         <string>Data</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="0">
+       <widget class="QLabel" name="label_4">
+        <property name="text">
+         <string>Frequently (second)</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="1">
+       <widget class="QSpinBox" name="spinSell">
+        <property name="minimum">
+         <number>1</number>
+        </property>
+        <property name="maximum">
+         <number>1000</number>
+        </property>
+        <property name="value">
+         <number>5</number>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="1">
+       <widget class="QPlainTextEdit" name="plainSell">
+        <property name="plainText">
+         <string>{
+	&quot;data&quot;: {
+		&quot;number&quot;: &quot;SELL-001&quot;,
+		&quot;user_id&quot;: 1,
+		&quot;machine_id&quot;: 1,
+		&quot;subtotal&quot;: 20000,
+		&quot;tax&quot;: 0,
+		&quot;payment&quot;: 20000,
+		&quot;total&quot;: 20000,
+		&quot;bank_id&quot;: 0,
+		&quot;customer_id&quot;: 0,
+		&quot;payment_type&quot;: 0,
+		&quot;reward&quot;: 0,
+		&quot;cart&quot;: [
+			{
+				&quot;barcode&quot;: &quot;123&quot;,
+				&quot;name&quot;: &quot;name&quot;,
+				&quot;count&quot;: 2,
+				&quot;price&quot;: 1000,
+				&quot;total&quot;: 2000,
+				&quot;discount&quot;: 0,
+				&quot;discount_formula&quot;: &quot;&quot;,
+				&quot;final&quot;: 2000,
+				&quot;flag&quot;: 0,
+				&quot;link_id&quot;: 0,
+				&quot;buy_price&quot;: 750,
+				&quot;unit&quot;: &quot;pcs&quot;
+			},
+			{
+				&quot;barcode&quot;: &quot;234&quot;,
+				&quot;name&quot;: &quot;name&quot;,
+				&quot;count&quot;: 2,
+				&quot;price&quot;: 1000,
+				&quot;total&quot;: 2000,
+				&quot;discount&quot;: 0,
+				&quot;discount_formula&quot;: &quot;&quot;,
+				&quot;final&quot;: 2000,
+				&quot;flag&quot;: 0,
+				&quot;link_id&quot;: 0,
+				&quot;buy_price&quot;: 750,
+				&quot;unit&quot;: &quot;pcs&quot;
+			},
+			{
+				&quot;barcode&quot;: &quot;456&quot;,
+				&quot;name&quot;: &quot;name&quot;,
+				&quot;count&quot;: 2,
+				&quot;price&quot;: 1000,
+				&quot;total&quot;: 2000,
+				&quot;discount&quot;: 0,
+				&quot;discount_formula&quot;: &quot;&quot;,
+				&quot;final&quot;: 2000,
+				&quot;flag&quot;: 0,
+				&quot;link_id&quot;: 0,
+				&quot;buy_price&quot;: 750,
+				&quot;unit&quot;: &quot;pcs&quot;
+			},
+			{
+				&quot;barcode&quot;: &quot;567&quot;,
+				&quot;name&quot;: &quot;name&quot;,
+				&quot;count&quot;: 2,
+				&quot;price&quot;: 1000,
+				&quot;total&quot;: 2000,
+				&quot;discount&quot;: 0,
+				&quot;discount_formula&quot;: &quot;&quot;,
+				&quot;final&quot;: 2000,
+				&quot;flag&quot;: 0,
+				&quot;link_id&quot;: 0,
+				&quot;buy_price&quot;: 750,
+				&quot;unit&quot;: &quot;pcs&quot;
+			}
+		]
+	}
+}</string>
+        </property>
+        <property name="tabStopWidth">
+         <number>20</number>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="labelStatus">
+     <property name="text">
+      <string>Status</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <spacer name="horizontalSpacer">
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>40</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushStart">
+       <property name="text">
+        <string>Start</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushClose">
+       <property name="text">
+        <string>Close</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
