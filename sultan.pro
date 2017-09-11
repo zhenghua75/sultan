@@ -8,6 +8,7 @@ CONFIG   += ordered
         libserver \
         libprint \
         libgui \
+        libguiqml
 }
 
 SUBDIRS += sultan

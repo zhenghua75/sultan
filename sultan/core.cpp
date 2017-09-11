@@ -30,6 +30,7 @@
 #include "migration.h"
 #include "usersession.h"
 #include "mainwindow.h"
+#include "mainwindowqml.h"
 #include <QApplication>
 #include <QTimer>
 #include <QMessageBox>
@@ -47,7 +48,8 @@ Core::Core(QObject *parent) :
     mSocketClient(new SocketClient(this)),
     mMainServer(nullptr),
     mMessageBus(new MessageBus(this)),
-    mMainWindow(new LibGUI::MainWindow(mMessageBus))
+    mMainWindow(new LibGUI::MainWindow(mMessageBus)),
+    mWindowQml(new LibGUIQML::MainWindowQML())
 {
     //mLoginDialog->setMessageBus(mMessageBus);
     connect(mSocketClient, SIGNAL(socketConnected()), SLOT(clientConnected()));
