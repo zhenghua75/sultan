@@ -47,9 +47,7 @@ Core::Core(QObject *parent) :
     mSocketManager(nullptr),
     mSocketClient(new SocketClient(this)),
     mMainServer(nullptr),
-    mMessageBus(new MessageBus(this)),
-    mMainWindow(new LibGUI::MainWindow(mMessageBus)),
-    mWindowQml(new LibGUIQML::MainWindowQML())
+    mMessageBus(new MessageBus(this))
 {
     //mLoginDialog->setMessageBus(mMessageBus);
     connect(mSocketClient, SIGNAL(socketConnected()), SLOT(clientConnected()));
@@ -62,6 +60,7 @@ Core::Core(QObject *parent) :
 #ifdef Q_OS_LINUX
     qApp->setWindowIcon(QIcon(":/images/icon_64.png"));
 #endif
+    mMainWindow = new LibGUIQML::MainWindowQML(mMessageBus, this);
 }
 
 Core::~Core()
