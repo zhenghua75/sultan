@@ -226,8 +226,10 @@ bool Usb::sendData(uint16_t vendorId, uint16_t produkId, const QByteArray &data)
         open_device(&printer);
         libusb_bulk_transfer(printer.handle, printer.write_endp, (unsigned char*)data.data(), data.size(), &act, 0);
         close_device(&printer);
+        //return true;
     } else {
         return false;
     }
 #endif
+    return true;
 }

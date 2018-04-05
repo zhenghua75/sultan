@@ -91,6 +91,7 @@ void SettingWidget::setupLocale()
 {
     ui->comboApplicationLanguage->addItem("English", "en");
     ui->comboApplicationLanguage->addItem("Bahasa Indonesia", "id");
+    ui->comboApplicationLanguage->addItem("中文", "zh");
     GuiUtil::selectCombo(ui->comboApplicationLanguage, Preference::getString(SETTING::APPLICATION_LANGUAGE, "id"));
     QMetaEnum meta = QMetaEnum::fromType<QLocale::Language>();
     mAllLocales = QLocale::matchingLocales(QLocale::AnyLanguage, QLocale::AnyScript, QLocale::AnyCountry);

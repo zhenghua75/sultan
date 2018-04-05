@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="id_ID">
+<TS version="2.1" language="zh_CN">
 <context>
     <name>AboutDialog</name>
     <message>
@@ -54,12 +54,12 @@
     <message>
         <location filename="../libgui/customer/addcreditpaymentdialog.ui" line="112"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/customer/addcreditpaymentdialog.ui" line="122"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -103,12 +103,12 @@
     <message>
         <location filename="../libgui/item/addingridientdialog.ui" line="131"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/item/addingridientdialog.ui" line="141"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -307,12 +307,12 @@
     <message>
         <location filename="../libgui/item/additemdialog.ui" line="650"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/item/additemdialog.ui" line="660"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/item/additemdialog.ui" line="670"/>
@@ -380,12 +380,12 @@
     <message>
         <location filename="../libgui/cashier/additemunavailabledialog.ui" line="153"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/cashier/additemunavailabledialog.ui" line="163"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -410,12 +410,12 @@
     <message>
         <location filename="../libgui/machine/addmachinedialog.ui" line="83"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/machine/addmachinedialog.ui" line="93"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -444,7 +444,7 @@
     <message>
         <location filename="../libgui/customer/addpoindialog.ui" line="56"/>
         <source>Type</source>
-        <translation type="unfinished">Tipe</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/customer/addpoindialog.ui" line="66"/>
@@ -464,12 +464,12 @@
     <message>
         <location filename="../libgui/customer/addpoindialog.ui" line="140"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/customer/addpoindialog.ui" line="150"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -529,12 +529,12 @@
     <message>
         <location filename="../libgui/item/addpricedialog.ui" line="171"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/item/addpricedialog.ui" line="181"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -618,12 +618,12 @@
     <message>
         <location filename="../libgui/soldreturn/addsoldreturndialog.ui" line="233"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/soldreturn/addsoldreturndialog.ui" line="240"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -636,7 +636,7 @@
     <message>
         <location filename="../libgui/transaction/addtransactiondialog.ui" line="28"/>
         <source>Type</source>
-        <translation type="unfinished">Tipe</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/transaction/addtransactiondialog.ui" line="35"/>
@@ -676,12 +676,12 @@
     <message>
         <location filename="../libgui/transaction/addtransactiondialog.ui" line="155"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/transaction/addtransactiondialog.ui" line="162"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -746,7 +746,7 @@
     <message>
         <location filename="../libgui/cashier/advancepaymentdialog.ui" line="191"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/cashier/advancepaymentdialog.ui" line="201"/>
@@ -829,12 +829,12 @@
     <message>
         <location filename="../libgui/bank/bankadddialog.ui" line="100"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/bank/bankadddialog.ui" line="110"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -986,12 +986,12 @@
     <message>
         <location filename="../libgui/category/categoryadddialog.ui" line="90"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/category/categoryadddialog.ui" line="97"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1029,12 +1029,12 @@
     <message>
         <location filename="../libgui/user/changepassworddialog.ui" line="99"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/user/changepassworddialog.ui" line="109"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1100,7 +1100,7 @@
     <message>
         <location filename="../libgui/checkstock/checkstockadddialog.ui" line="169"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/checkstock/checkstockadddialog.ui" line="179"/>
@@ -1111,55 +1111,6 @@
         <location filename="../libgui/checkstock/checkstockadddialog.ui" line="186"/>
         <source>Add &amp; Again</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Core</name>
-    <message>
-        <location filename="../sultan/core.cpp" line="177"/>
-        <location filename="../sultan/core.cpp" line="194"/>
-        <source>Database Error</source>
-        <translation>Database Error</translation>
-    </message>
-    <message>
-        <location filename="../sultan/core.cpp" line="194"/>
-        <source>Migrate database failed</source>
-        <translation>Migrasi database gagal</translation>
-    </message>
-    <message>
-        <location filename="../sultan/core.cpp" line="204"/>
-        <source>Server Socket Error</source>
-        <translation>Socket Server Error</translation>
-    </message>
-    <message>
-        <source>Port already in used</source>
-        <translation type="vanished">Port sudah digunakan</translation>
-    </message>
-    <message>
-        <location filename="../sultan/core.cpp" line="204"/>
-        <source>Port already in used.
-Possible another Sultan already openned</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../sultan/core.cpp" line="243"/>
-        <source>Error Disconnect</source>
-        <translation>Error Disconnect</translation>
-    </message>
-    <message>
-        <location filename="../sultan/core.cpp" line="243"/>
-        <source>Connection to server lost. Please check your connectivity.</source>
-        <translation>Koneksi ke server terputus. Silakan cek koneksi Anda.</translation>
-    </message>
-    <message>
-        <location filename="../sultan/core.cpp" line="248"/>
-        <source>Error Timeout</source>
-        <translation>Error Timeout</translation>
-    </message>
-    <message>
-        <location filename="../sultan/core.cpp" line="248"/>
-        <source>Connection to server timeout. Please check your connectivity.</source>
-        <translation>Koneksi ke server timeout. Silakan cek koneksi Anda.</translation>
     </message>
 </context>
 <context>
@@ -1202,7 +1153,7 @@ Possible another Sultan already openned</source>
     <message>
         <location filename="../libgui/customer/creditsummarywidget.ui" line="124"/>
         <source>Address</source>
-        <translation type="unfinished">Alamat Server</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/customer/creditsummarywidget.ui" line="176"/>
@@ -1238,7 +1189,7 @@ Possible another Sultan already openned</source>
         <location filename="../libgui/customer/customeradddialog.ui" line="42"/>
         <location filename="../libgui/customer/customeradddialog.ui" line="83"/>
         <source>Address</source>
-        <translation type="unfinished">Alamat Server</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/customer/customeradddialog.ui" line="49"/>
@@ -1255,12 +1206,12 @@ Possible another Sultan already openned</source>
     <message>
         <location filename="../libgui/customer/customeradddialog.ui" line="134"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/customer/customeradddialog.ui" line="141"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1325,7 +1276,7 @@ Possible another Sultan already openned</source>
     <message>
         <location filename="../libgui/cashier/customercreditpaymentdialog.ui" line="193"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/cashier/customercreditpaymentdialog.ui" line="203"/>
@@ -1338,7 +1289,7 @@ Possible another Sultan already openned</source>
     <message>
         <location filename="../libgui/setting/datesettingdialog.ui" line="14"/>
         <source>Setting Date and Time</source>
-        <translation>Setting tanggal dan jam</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/setting/datesettingdialog.ui" line="20"/>
@@ -1346,21 +1297,9 @@ Possible another Sultan already openned</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Your date time is too old. You have to set your current date and time manual.</source>
-        <translation type="vanished">Tanggal dan jam sudah kadaluarsa. Tangal dan jam haus di set secara manual.</translation>
-    </message>
-    <message>
         <location filename="../libgui/setting/datesettingdialog.ui" line="68"/>
         <source>Save</source>
-        <translation>Simpan</translation>
-    </message>
-    <message>
-        <source>Unable to set the date time</source>
-        <translation type="vanished">Tidak dapat menset tanggal dan jam</translation>
-    </message>
-    <message>
-        <source>Seems your date is not up to date. Please check again</source>
-        <translation type="vanished">Sepertinya tanggal dan jam masih belum terupdate. Silakan cek ulang</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1437,12 +1376,12 @@ Possible another Sultan already openned</source>
     <message>
         <location filename="../libgui/cashier/editpricecountdialog.ui" line="182"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/cashier/editpricecountdialog.ui" line="192"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1528,12 +1467,12 @@ Possible another Sultan already openned</source>
     <message>
         <location filename="../libgui/initialstock/initialstockadddialog.ui" line="157"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/initialstock/initialstockadddialog.ui" line="164"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/initialstock/initialstockadddialog.ui" line="171"/>
@@ -1559,7 +1498,7 @@ Possible another Sultan already openned</source>
     <message>
         <location filename="../libgui/about/aboutdialog.cpp" line="33"/>
         <source>Sultan %1</source>
-        <translation type="unfinished"></translation>
+        <translation>道讯收银系统 - %1</translation>
     </message>
 </context>
 <context>
@@ -2352,6 +2291,21 @@ Price</source>
 <context>
     <name>LibGUI::CashierWidget</name>
     <message>
+        <location filename="../libgui/cashier/cashierwidget.cpp" line="88"/>
+        <source>Sultan %1</source>
+        <translation type="unfinished">道讯收银系统 - %1</translation>
+    </message>
+    <message>
+        <location filename="../libgui/cashier/cashierwidget.cpp" line="150"/>
+        <source>Close confirmation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libgui/cashier/cashierwidget.cpp" line="151"/>
+        <source>Your cart is not empty. Are you sure to close?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../libgui/cashier/cashierwidget.cpp" line="166"/>
         <location filename="../libgui/cashier/cashierwidget.cpp" line="169"/>
         <location filename="../libgui/cashier/cashierwidget.cpp" line="205"/>
@@ -2392,21 +2346,6 @@ Price</source>
         <location filename="../libgui/cashier/cashierwidget.cpp" line="287"/>
         <location filename="../libgui/cashier/cashierwidget.cpp" line="288"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libgui/cashier/cashierwidget.cpp" line="150"/>
-        <source>Close confirmation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libgui/cashier/cashierwidget.cpp" line="88"/>
-        <source>Sultan %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libgui/cashier/cashierwidget.cpp" line="151"/>
-        <source>Your cart is not empty. Are you sure to close?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2997,7 +2936,7 @@ Price</source>
     <message>
         <location filename="../libgui/customer/customerwidget.cpp" line="67"/>
         <source>Address</source>
-        <translation type="unfinished">Alamat Server</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/customer/customerwidget.cpp" line="68"/>
@@ -3038,12 +2977,12 @@ Price</source>
     <message>
         <location filename="../libgui/setting/datesettingdialog.cpp" line="57"/>
         <source>Unable to set the date time</source>
-        <translation type="unfinished">Tidak dapat menset tanggal dan jam</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/setting/datesettingdialog.cpp" line="62"/>
         <source>Seems your date is not up to date. Please check again</source>
-        <translation type="unfinished">Sepertinya tanggal dan jam masih belum terupdate. Silakan cek ulang</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3307,12 +3246,12 @@ Price</source>
         <location filename="../libgui/main/logindialog.cpp" line="92"/>
         <location filename="../libgui/main/logindialog.cpp" line="107"/>
         <source>This is a server, any client will be disconnect. Are you sure to exit?</source>
-        <translation type="unfinished">Aplikasi ini adalah server, semua client yang terhubung ke server ini akan terputus. Yakin keluar?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/main/logindialog.cpp" line="120"/>
         <source>fill all field</source>
-        <translation type="unfinished">Lengkapi semua form</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3378,7 +3317,7 @@ Price</source>
     <message>
         <location filename="../libgui/mainwindow.cpp" line="216"/>
         <source>Success</source>
-        <translation type="unfinished">Sukses</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/mainwindow.cpp" line="216"/>
@@ -3544,7 +3483,7 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/transaction/moneywidget.cpp" line="65"/>
         <source>Type</source>
-        <translation type="unfinished">Tipe</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/transaction/moneywidget.cpp" line="67"/>
@@ -4066,7 +4005,7 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/purchase/purchasewidget.cpp" line="66"/>
         <source>Type</source>
-        <translation type="unfinished">Tipe</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/purchase/purchasewidget.cpp" line="67"/>
@@ -4441,7 +4380,7 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/cashier/searchcustomerdialog.cpp" line="49"/>
         <source>Address</source>
-        <translation type="unfinished">Alamat Server</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/cashier/searchcustomerdialog.cpp" line="50"/>
@@ -4503,17 +4442,17 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/main/settingdialog.cpp" line="154"/>
         <source>Please complete the setting</source>
-        <translation type="unfinished">Silakan setting dengan benar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/main/settingdialog.cpp" line="164"/>
         <source>Success</source>
-        <translation type="unfinished">Sukses</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/main/settingdialog.cpp" line="164"/>
         <source>Connection to Mysql OK!</source>
-        <translation type="unfinished">Koneksi MySQL OK!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/main/settingdialog.cpp" line="218"/>
@@ -4523,22 +4462,22 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/main/settingdialog.cpp" line="226"/>
         <source>Connection Success</source>
-        <translation type="unfinished">Koneksi Sukses</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/main/settingdialog.cpp" line="226"/>
         <source>Connection to server success</source>
-        <translation type="unfinished">Koneksi ke server sukses</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/main/settingdialog.cpp" line="233"/>
         <source>Connection Error</source>
-        <translation type="unfinished">Koneksi Error</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/main/settingdialog.cpp" line="233"/>
         <source>Connection error : %1</source>
-        <translation type="unfinished">Koneksi error : %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/main/settingdialog.cpp" line="238"/>
@@ -4768,7 +4707,7 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/item/stockcarddialog.cpp" line="46"/>
         <source>Type</source>
-        <translation type="unfinished">Tipe</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/item/stockcarddialog.cpp" line="48"/>
@@ -4852,7 +4791,7 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/report/stockcardwidget.cpp" line="52"/>
         <source>Type</source>
-        <translation type="unfinished">Tipe</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/report/stockcardwidget.cpp" line="54"/>
@@ -4964,7 +4903,7 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/suplier/suplierwidget.cpp" line="55"/>
         <source>Address</source>
-        <translation type="unfinished">Alamat Server</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/suplier/suplierwidget.cpp" line="75"/>
@@ -5058,7 +4997,7 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/transaction/transactionwidget.cpp" line="88"/>
         <source>Type</source>
-        <translation type="unfinished">Tipe</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/transaction/transactionwidget.cpp" line="89"/>
@@ -5226,7 +5165,7 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/user/userwidget.cpp" line="61"/>
         <source>Address</source>
-        <translation type="unfinished">Alamat Server</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/user/userwidget.cpp" line="70"/>
@@ -5285,21 +5224,6 @@ Please input your password to confirm</source>
     </message>
 </context>
 <context>
-    <name>LibPrint::PrintTestDialog</name>
-    <message>
-        <location filename="../libprint/printtestdialog.cpp" line="96"/>
-        <location filename="../libprint/printtestdialog.cpp" line="132"/>
-        <source>Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libprint/printtestdialog.cpp" line="96"/>
-        <location filename="../libprint/printtestdialog.cpp" line="132"/>
-        <source>Please specify the printer</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>ListDialog</name>
     <message>
         <location filename="../libgui/admin/listdialog.ui" line="14"/>
@@ -5314,14 +5238,6 @@ Please input your password to confirm</source>
 </context>
 <context>
     <name>LoginDialog</name>
-    <message>
-        <source>This is a server, any client will be disconnect. Are you sure to exit?</source>
-        <translation type="vanished">Aplikasi ini adalah server, semua client yang terhubung ke server ini akan terputus. Yakin keluar?</translation>
-    </message>
-    <message>
-        <source>fill all field</source>
-        <translation type="vanished">Lengkapi semua form</translation>
-    </message>
     <message>
         <location filename="../libgui/main/logindialog.ui" line="47"/>
         <location filename="../libgui/main/logindialog.ui" line="61"/>
@@ -5380,11 +5296,6 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/mainwindow.ui" line="78"/>
         <source>&amp;Inventory</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libgui/mainwindow.ui" line="192"/>
-        <source>C&amp;ustomer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5457,6 +5368,11 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/mainwindow.ui" line="187"/>
         <source>&amp;Change Password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libgui/mainwindow.ui" line="192"/>
+        <source>C&amp;ustomer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5583,7 +5499,7 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/cashier/paycashdialog.ui" line="82"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/cashier/paycashdialog.ui" line="92"/>
@@ -5643,12 +5559,12 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/cashier/paycashlessdialog.ui" line="150"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/cashier/paycashlessdialog.ui" line="160"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5683,71 +5599,6 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/cashier/paymentcashsuccessdialog.ui" line="124"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PrintTestDialog</name>
-    <message>
-        <location filename="../libprint/printtestdialog.ui" line="14"/>
-        <source>Test Print</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libprint/printtestdialog.ui" line="26"/>
-        <source>Printer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libprint/printtestdialog.ui" line="33"/>
-        <location filename="../libprint/printtestdialog.ui" line="64"/>
-        <source>Cut</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libprint/printtestdialog.ui" line="40"/>
-        <location filename="../libprint/printtestdialog.ui" line="71"/>
-        <source>Open drawer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libprint/printtestdialog.ui" line="47"/>
-        <source>Number Char 10cpi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libprint/printtestdialog.ui" line="54"/>
-        <source>Number Char 12cpi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libprint/printtestdialog.ui" line="119"/>
-        <source>Open Drawer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libprint/printtestdialog.ui" line="129"/>
-        <source>Print</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libprint/printtestdialog.ui" line="148"/>
-        <source>Number Char 15cpi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libprint/printtestdialog.ui" line="155"/>
-        <source>Tipe</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libprint/printtestdialog.ui" line="162"/>
-        <source>Device</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libprint/printtestdialog.ui" line="175"/>
-        <source>USB</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5834,12 +5685,12 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/purchase/purchaseadddialog.ui" line="213"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/purchase/purchaseadddialog.ui" line="223"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5945,12 +5796,12 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/purchase/purchaseadditemdialog.ui" line="374"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/purchase/purchaseadditemdialog.ui" line="384"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/purchase/purchaseadditemdialog.ui" line="397"/>
@@ -6012,106 +5863,11 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/purchase/purchasepaymentdialog.ui" line="134"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/purchase/purchasepaymentdialog.ui" line="144"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
-    </message>
-</context>
-<context>
-    <name>QObject</name>
-    <message>
-        <location filename="../libserver/action/cusomercreditaction.cpp" line="47"/>
-        <source>Customer credit : %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libserver/action/databaseaction.cpp" line="75"/>
-        <source>User id not found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libserver/action/itemaction.cpp" line="188"/>
-        <source>Item not found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libserver/action/itemaction.cpp" line="194"/>
-        <source>Item has no price</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libserver/action/purchaseaction.cpp" line="49"/>
-        <source>Purchase with number already exist!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libserver/action/purchaseaction.cpp" line="109"/>
-        <location filename="../libserver/action/purchaseaction.cpp" line="119"/>
-        <source>Purchase : %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libserver/action/purchasereturnaction.cpp" line="70"/>
-        <location filename="../libserver/action/purchasereturnaction.cpp" line="94"/>
-        <location filename="../libserver/action/purchasereturnaction.cpp" line="101"/>
-        <source>Purchase Return : %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libserver/action/sellpriceactions.cpp" line="41"/>
-        <location filename="../libserver/action/sellpriceactions.cpp" line="60"/>
-        <source>Item with count already exist</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libserver/action/sellpriceactions.cpp" line="52"/>
-        <source>Item with id not found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libserver/action/soldaction.cpp" line="86"/>
-        <source>Sold : %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libserver/action/soldaction.cpp" line="94"/>
-        <source>Credit from transaction %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libserver/action/soldaction.cpp" line="107"/>
-        <source>Poin from transaction %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libserver/action/transactionaction.cpp" line="95"/>
-        <source>Income</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libserver/action/transactionaction.cpp" line="95"/>
-        <source>Expense</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libserver/action/transactionaction.cpp" line="129"/>
-        <source>All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libserver/action/customeraction.cpp" line="52"/>
-        <source>Customer credit must 0 when delete the customer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libserver/action/soldreturnaction.cpp" line="58"/>
-        <location filename="../libserver/action/soldreturnaction.cpp" line="65"/>
-        <location filename="../libserver/action/soldreturnaction.cpp" line="91"/>
-        <location filename="../libserver/action/soldreturnaction.cpp" line="98"/>
-        <source>Sold Return : %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6130,7 +5886,7 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/main/restartconfirmationdialog.ui" line="55"/>
         <source>Exit App</source>
-        <translation>Tutup App</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/main/restartconfirmationdialog.ui" line="62"/>
@@ -6140,7 +5896,7 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/main/restartconfirmationdialog.ui" line="69"/>
         <source>Open Setting</source>
-        <translation>Buka Setting</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6192,7 +5948,7 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/item/restoreitemdialog.ui" line="145"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/item/restoreitemdialog.ui" line="155"/>
@@ -6245,12 +6001,12 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/purchase/returnadddialog.ui" line="164"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/purchase/returnadddialog.ui" line="171"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/purchase/returnadddialog.ui" line="178"/>
@@ -6307,12 +6063,12 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/cashier/returnitemadddialog.ui" line="148"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/cashier/returnitemadddialog.ui" line="158"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6390,12 +6146,12 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/purchase/returnresolutiondialog.ui" line="216"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/purchase/returnresolutiondialog.ui" line="223"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6423,12 +6179,12 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/customer/rewardadddialog.ui" line="86"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/customer/rewardadddialog.ui" line="96"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6493,7 +6249,7 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/cashier/saveloadslotdialog.ui" line="48"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6527,12 +6283,12 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/main/settingdialog.ui" line="14"/>
         <source>Application Setting</source>
-        <translation>Setting Aplikasi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/main/settingdialog.ui" line="33"/>
         <source>Type</source>
-        <translation>Tipe</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/main/settingdialog.ui" line="45"/>
@@ -6572,7 +6328,7 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/main/settingdialog.ui" line="217"/>
         <source>Check Mysql</source>
-        <translation>Cek MySQL</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/main/settingdialog.ui" line="256"/>
@@ -6592,55 +6348,27 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/main/settingdialog.ui" line="300"/>
         <source>Address</source>
-        <translation>Alamat Server</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/main/settingdialog.ui" line="314"/>
         <source>Server address</source>
-        <translation>Alamat server</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/main/settingdialog.ui" line="334"/>
         <source>Check Connection</source>
-        <translation>Cek koneksi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/main/settingdialog.ui" line="379"/>
         <source>Cancel</source>
-        <translation>Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/main/settingdialog.ui" line="389"/>
         <source>Save</source>
-        <translation>Simpan</translation>
-    </message>
-    <message>
-        <source>Please complete the setting</source>
-        <translation type="vanished">Silakan setting dengan benar</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">Sukses</translation>
-    </message>
-    <message>
-        <source>Connection to Mysql OK!</source>
-        <translation type="vanished">Koneksi MySQL OK!</translation>
-    </message>
-    <message>
-        <source>Connection Success</source>
-        <translation type="vanished">Koneksi Sukses</translation>
-    </message>
-    <message>
-        <source>Connection to server success</source>
-        <translation type="vanished">Koneksi ke server sukses</translation>
-    </message>
-    <message>
-        <source>Connection Error</source>
-        <translation type="vanished">Koneksi Error</translation>
-    </message>
-    <message>
-        <source>Connection error : %1</source>
-        <translation type="vanished">Koneksi error : %1</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6663,12 +6391,12 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/customer/settingpoinadddialog.ui" line="89"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/customer/settingpoinadddialog.ui" line="99"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6813,8 +6541,34 @@ Please input your password to confirm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../libgui/setting/settingwidget.ui" line="603"/>
+        <source>CPI 10 Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libgui/setting/settingwidget.ui" line="623"/>
+        <source>CPI 12 Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../libgui/setting/settingwidget.ui" line="643"/>
         <source>Barcode Max Length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libgui/setting/settingwidget.ui" line="660"/>
+        <location filename="../libgui/setting/settingwidget.ui" line="847"/>
+        <source>Line Feed After</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libgui/setting/settingwidget.ui" line="670"/>
+        <source>Open Drawer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libgui/setting/settingwidget.ui" line="684"/>
+        <source>Auto Cut</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6838,32 +6592,6 @@ Please input your password to confirm</source>
         <location filename="../libgui/setting/settingwidget.ui" line="768"/>
         <location filename="../libgui/setting/settingwidget.ui" line="796"/>
         <source>Footer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libgui/setting/settingwidget.ui" line="603"/>
-        <source>CPI 10 Width</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libgui/setting/settingwidget.ui" line="623"/>
-        <source>CPI 12 Width</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libgui/setting/settingwidget.ui" line="684"/>
-        <source>Auto Cut</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libgui/setting/settingwidget.ui" line="670"/>
-        <source>Open Drawer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libgui/setting/settingwidget.ui" line="660"/>
-        <location filename="../libgui/setting/settingwidget.ui" line="847"/>
-        <source>Line Feed After</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6954,7 +6682,7 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/setting/settingwidget.ui" line="1125"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7042,7 +6770,7 @@ Please input your password to confirm</source>
         <location filename="../libgui/suplier/suplieradddialog.ui" line="48"/>
         <location filename="../libgui/suplier/suplieradddialog.ui" line="86"/>
         <source>Address</source>
-        <translation type="unfinished">Alamat Server</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/suplier/suplieradddialog.ui" line="55"/>
@@ -7069,12 +6797,12 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/suplier/suplieradddialog.ui" line="137"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/suplier/suplieradddialog.ui" line="147"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7148,7 +6876,7 @@ Please input your password to confirm</source>
         <location filename="../libgui/user/useradddialog.ui" line="59"/>
         <location filename="../libgui/user/useradddialog.ui" line="107"/>
         <source>Address</source>
-        <translation type="unfinished">Alamat Server</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/user/useradddialog.ui" line="93"/>
@@ -7158,12 +6886,12 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/user/useradddialog.ui" line="144"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/user/useradddialog.ui" line="154"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7196,7 +6924,7 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/user/userpermissiondialog.ui" line="115"/>
         <source>Save</source>
-        <translation type="unfinished">Simpan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

@@ -78,7 +78,8 @@ macx {
 
 RESOURCES += sultan.qrc sqlmigration.qrc translation.qrc
 
-TRANSLATIONS = ../translation/sultan_id.ts
+TRANSLATIONS = ../translation/sultan_id.ts \
+               ../translation/sultan_zh.ts
 
 SOURCES += main.cpp \
     core.cpp \

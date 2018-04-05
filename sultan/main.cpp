@@ -31,7 +31,7 @@ int main(int argc, char *argv[])
     QApplication::setStyle(QStyleFactory::create(QLatin1String("Fusion")));
 #endif
     a.setApplicationName("sultan");
-    a.setOrganizationName("lekapin");
+    a.setOrganizationName("kmdx");
     a.setApplicationVersion("17.12.01");
 
 #ifndef QT_DEBUG
@@ -55,15 +55,15 @@ int main(int argc, char *argv[])
 #endif
 
     LibG::Preference::createInstance();
-    const QString &lang = LibG::Preference::getString(LibG::SETTING::APPLICATION_LANGUAGE, "id");
+    const QString &lang = LibG::Preference::getString(LibG::SETTING::APPLICATION_LANGUAGE, "zh");
     QTranslator tr[3];
-    if(lang.compare("en")) {
+    //if(lang.compare("en")) {
         QStringList trans{":/translation/sultan_", ":/translation/libgui_", ":/translation/libserver_"};
         for(int i = 0; i < trans.count(); i++) {
             if(tr[i].load(trans[i] + lang))
                 a.installTranslator(&tr[i]);
         }
-    }
+    //}
 
     Core core;
     core.setup();

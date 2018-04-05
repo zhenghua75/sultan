@@ -54,7 +54,7 @@
    <item>
     <widget class="QTabWidget" name="tabWidget">
      <property name="currentIndex">
-      <number>2</number>
+      <number>1</number>
      </property>
      <property name="tabBarAutoHide">
       <bool>false</bool>
@@ -77,8 +77,8 @@
            <rect>
             <x>0</x>
             <y>0</y>
-            <width>892</width>
-            <height>516</height>
+            <width>890</width>
+            <height>518</height>
            </rect>
           </property>
           <layout class="QVBoxLayout" name="verticalLayout_11">
@@ -311,8 +311,8 @@
            <rect>
             <x>0</x>
             <y>0</y>
-            <width>892</width>
-            <height>516</height>
+            <width>890</width>
+            <height>518</height>
            </rect>
           </property>
           <layout class="QVBoxLayout" name="verticalLayout_3">
@@ -536,8 +536,8 @@
            <rect>
             <x>0</x>
             <y>0</y>
-            <width>892</width>
-            <height>516</height>
+            <width>890</width>
+            <height>518</height>
            </rect>
           </property>
           <layout class="QVBoxLayout" name="verticalLayout_8">
@@ -888,8 +888,8 @@
            <rect>
             <x>0</x>
             <y>0</y>
-            <width>892</width>
-            <height>516</height>
+            <width>890</width>
+            <height>518</height>
            </rect>
           </property>
           <layout class="QVBoxLayout" name="verticalLayout_15">

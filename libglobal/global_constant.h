@@ -17,11 +17,13 @@
  * You should have received a copy of the GNU General Public License along with
  * this program. If not, see <http://www.gnu.org/licenses/>.
  */
+#pragma execution_character_set("utf-8")
+
 #ifndef GLOBAL_CONSTANT_H
 #define GLOBAL_CONSTANT_H
 
 #include <QString>
-
+#include <QStringBuilder>
 namespace LibG {
 
 namespace CONFIG {
@@ -29,9 +31,9 @@ namespace CONFIG {
 }
 
 namespace CONSTANT {
-    const QString APP_NAME          = QStringLiteral("Sultan");
-    const QString WINDOW_TITLE      = QStringLiteral("%1 - Sultan");
-    const QString ABOUT_APP_NAME    = QStringLiteral("Sultan %1");
+    //const QString APP_NAME          = QStringLiteral("Sultan");
+    //const QString WINDOW_TITLE      = QStringLiteral("%1 - Sultan");
+    //const QString ABOUT_APP_NAME    = QStringLiteral("Sultan %1");
     const QString URL_UPDATE        = QStringLiteral("https://sultanupdate.lekapin.com/check?arc=%1&qt=%2");
     const QString URL_DOWNLOAD      = QStringLiteral("https://sultanupdate.lekapin.com/assets/upload/sultan_%1_%2_%3");
     const QString BARCODE_CLOUD     = QStringLiteral("https://barcode.indoarm.com/?barcode=%1");

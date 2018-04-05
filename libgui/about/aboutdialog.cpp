@@ -30,7 +30,8 @@ AboutDialog::AboutDialog(QWidget *parent) :
     ui->setupUi(this);
     setModal(true);
     ui->textBrowser->setOpenExternalLinks(true);
-    ui->labelTitle->setText(LibG::CONSTANT::ABOUT_APP_NAME.arg(qApp->applicationVersion()));
+    QString str = QString(tr("Sultan %1")).arg(qApp->applicationVersion());
+    ui->labelTitle->setText(str);
     ui->textBrowser->setText(QStringLiteral("<center>Sultan POS is simple POS software \
                     <br><br>Project can be found at <br><a href=\"https://github.com/apinprastya/sultan\"> \
                     https://github.com/apinprastya/sultan</a><br><br>\

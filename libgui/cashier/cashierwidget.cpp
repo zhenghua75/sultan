@@ -85,7 +85,8 @@ CashierWidget::CashierWidget(LibG::MessageBus *bus, QWidget *parent) :
     ui->tableView->setVerticalScrollMode(QAbstractItemView::ScrollPerPixel);
     GuiUtil::setColumnWidth(ui->tableView, QList<int>() << 50 << 160 << 150 << 60 << 75 << 90 << 80 << 100);
     ui->tableView->horizontalHeader()->setSectionResizeMode(2, QHeaderView::Stretch);
-    ui->labelVersion->setText(CONSTANT::ABOUT_APP_NAME.arg(qApp->applicationVersion()));
+    QString str = QString(tr("Sultan %1")).arg(qApp->applicationVersion());
+    ui->labelVersion->setText(str);
     auto keyevent = new KeyEvent(ui->tableView);
     keyevent->addConsumeKey(Qt::Key_Return);
     keyevent->addConsumeKey(Qt::Key_Delete);

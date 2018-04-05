@@ -26,7 +26,7 @@ using namespace LibG;
 static Preference *sInstance = nullptr;
 
 Preference::Preference():
-    mSetting(new QSettings(QLatin1String("lekapin"), QLatin1String("sultan")))
+    mSetting(new QSettings(QLatin1String("kmdx"), QLatin1String("sultan")))
 {
 }
 

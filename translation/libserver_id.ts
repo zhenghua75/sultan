@@ -61,17 +61,17 @@
         <translation>Item dengan id tidak ditemukan</translation>
     </message>
     <message>
-        <location filename="../libserver/action/itemaction.cpp" line="168"/>
+        <location filename="../libserver/action/itemaction.cpp" line="188"/>
         <source>Item not found</source>
         <translation>Item tidak ditemukan</translation>
     </message>
     <message>
-        <location filename="../libserver/action/itemaction.cpp" line="174"/>
+        <location filename="../libserver/action/itemaction.cpp" line="194"/>
         <source>Item has no price</source>
         <translation>Item tidak memiliki harga</translation>
     </message>
     <message>
-        <location filename="../libserver/action/databaseaction.cpp" line="74"/>
+        <location filename="../libserver/action/databaseaction.cpp" line="75"/>
         <source>User id not found</source>
         <translation>User tidak ditemukan</translation>
     </message>
@@ -83,10 +83,10 @@
         <translation>Retur pembelian : %1</translation>
     </message>
     <message>
-        <location filename="../libserver/action/soldreturnaction.cpp" line="39"/>
-        <location filename="../libserver/action/soldreturnaction.cpp" line="46"/>
-        <location filename="../libserver/action/soldreturnaction.cpp" line="72"/>
-        <location filename="../libserver/action/soldreturnaction.cpp" line="79"/>
+        <location filename="../libserver/action/soldreturnaction.cpp" line="58"/>
+        <location filename="../libserver/action/soldreturnaction.cpp" line="65"/>
+        <location filename="../libserver/action/soldreturnaction.cpp" line="91"/>
+        <location filename="../libserver/action/soldreturnaction.cpp" line="98"/>
         <source>Sold Return : %1</source>
         <translation>Retur Penjualan: %1</translation>
     </message>

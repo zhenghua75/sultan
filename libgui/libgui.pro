@@ -61,7 +61,8 @@ macx {
     }
 }
 
-TRANSLATIONS = ../translation/libgui_id.ts
+TRANSLATIONS = ../translation/libgui_id.ts \
+               ../translation/libgui_zh.ts
 
 SOURCES += \
     mainwindow.cpp \

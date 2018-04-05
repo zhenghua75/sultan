@@ -42,10 +42,10 @@ LoginDialog::LoginDialog(MessageBus *bus, QWidget *parent) :
 {
     ui->setupUi(this);
     setMessageBus(bus);
-    setWindowTitle(CONSTANT::WINDOW_TITLE.arg(tr("Login")));
+    setWindowTitle(tr("Login - Sultan"));
     connect(ui->pushLogin, SIGNAL(clicked(bool)), SLOT(loginClicked()));
     connect(ui->pushConfig, SIGNAL(clicked(bool)), SLOT(openSetting()));
-    ui->labelVersion->setText(QString("Sultan version %1").arg(qApp->applicationVersion()));
+    ui->labelVersion->setText(tr("Sultan version %1").arg(qApp->applicationVersion()));
 }
 
 LoginDialog::~LoginDialog()

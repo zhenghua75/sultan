@@ -39,7 +39,8 @@ macx {
     QMAKE_LIBDIR = $$OUT_PWD/../bin $$QMAKE_LIBDIR
 }
 
-TRANSLATIONS = ../translation/libserver_id.ts
+TRANSLATIONS = ../translation/libserver_id.ts \
+               ../translation/libserver_zh.ts
 
 SOURCES += \
     serveraction.cpp \

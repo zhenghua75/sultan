@@ -3,5 +3,8 @@
         <file>../translation/libgui_id.qm</file>
         <file>../translation/libserver_id.qm</file>
         <file>../translation/sultan_id.qm</file>
+        <file>../translation/libgui_zh.qm</file>
+        <file>../translation/libserver_zh.qm</file>
+        <file>../translation/sultan_zh.qm</file>
     </qresource>
 </RCC>
