@@ -4667,6 +4667,23 @@ Silakan masukkan password untuk konfirmasi</translation>
 <context>
     <name>LibGUI::SettingWidget</name>
     <message>
+        <location filename="../libgui/setting/settingwidget.cpp" line="80"/>
+        <location filename="../libgui/setting/settingwidget.cpp" line="153"/>
+        <source>Sultan Minimarket</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libgui/setting/settingwidget.cpp" line="81"/>
+        <source>Jl. Bantul
+Yogyakarta</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libgui/setting/settingwidget.cpp" line="94"/>
+        <source>Chinese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../libgui/setting/settingwidget.cpp" line="119"/>
         <source>Device Printer</source>
         <translation></translation>
@@ -4680,6 +4697,16 @@ Silakan masukkan password untuk konfirmasi</translation>
         <location filename="../libgui/setting/settingwidget.cpp" line="131"/>
         <source>USB Printer</source>
         <translation></translation>
+    </message>
+    <message>
+        <location filename="../libgui/setting/settingwidget.cpp" line="154"/>
+        <source>Jogonalan Lor RT 2 Bantul</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libgui/setting/settingwidget.cpp" line="155"/>
+        <source>Barang dibeli tidak dapat ditukar</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libgui/setting/settingwidget.cpp" line="317"/>

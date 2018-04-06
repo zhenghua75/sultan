@@ -3381,7 +3381,7 @@ Price</source>
     <message>
         <location filename="../libgui/mainwindow.cpp" line="203"/>
         <source>Please set the machine ID on setting first before start using the application</source>
-        <translation>在开始使用程序前，请设置机器ID</translation>
+        <translation>在开始使用程序前，请设置收银台ID</translation>
     </message>
     <message>
         <location filename="../libgui/mainwindow.cpp" line="216"/>
@@ -4581,6 +4581,23 @@ Please input your password to confirm</source>
 <context>
     <name>LibGUI::SettingWidget</name>
     <message>
+        <location filename="../libgui/setting/settingwidget.cpp" line="80"/>
+        <location filename="../libgui/setting/settingwidget.cpp" line="153"/>
+        <source>Sultan Minimarket</source>
+        <translation>道讯收银系统</translation>
+    </message>
+    <message>
+        <location filename="../libgui/setting/settingwidget.cpp" line="81"/>
+        <source>Jl. Bantul
+Yogyakarta</source>
+        <translation>昆明道讯科技有限公司</translation>
+    </message>
+    <message>
+        <location filename="../libgui/setting/settingwidget.cpp" line="94"/>
+        <source>Chinese</source>
+        <translation>中文</translation>
+    </message>
+    <message>
         <location filename="../libgui/setting/settingwidget.cpp" line="119"/>
         <source>Device Printer</source>
         <translation>设备打印机</translation>
@@ -4594,6 +4611,16 @@ Please input your password to confirm</source>
         <location filename="../libgui/setting/settingwidget.cpp" line="131"/>
         <source>USB Printer</source>
         <translation>USB打印机</translation>
+    </message>
+    <message>
+        <location filename="../libgui/setting/settingwidget.cpp" line="154"/>
+        <source>Jogonalan Lor RT 2 Bantul</source>
+        <translation>昆明道讯科技有限公司</translation>
+    </message>
+    <message>
+        <location filename="../libgui/setting/settingwidget.cpp" line="155"/>
+        <source>Barang dibeli tidak dapat ditukar</source>
+        <translation>购买的物品不能退换</translation>
     </message>
     <message>
         <location filename="../libgui/setting/settingwidget.cpp" line="317"/>
@@ -6682,7 +6709,7 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/setting/settingwidget.ui" line="142"/>
         <source>Machine ID</source>
-        <translation>机器ID</translation>
+        <translation>收银台ID</translation>
     </message>
     <message>
         <location filename="../libgui/setting/settingwidget.ui" line="154"/>
@@ -6697,7 +6724,7 @@ Please input your password to confirm</source>
     <message>
         <location filename="../libgui/setting/settingwidget.ui" line="173"/>
         <source>Ex: 10%</source>
-        <translation>Ex: 10%</translation>
+        <translation>例如: 10%</translation>
     </message>
     <message>
         <location filename="../libgui/setting/settingwidget.ui" line="216"/>

@@ -77,8 +77,8 @@ SettingWidget::~SettingWidget()
 
 void SettingWidget::setupAppliaction()
 {
-    ui->lineAppName->setText(Preference::getString(SETTING::MARKET_NAME, "Sultan Minimarket"));
-    ui->plainSubName->setPlainText(Preference::getString(SETTING::MARKET_SUBNAME, "Jl. Bantul\nYogyakarta"));
+    ui->lineAppName->setText(Preference::getString(SETTING::MARKET_NAME, tr("Sultan Minimarket")));
+    ui->plainSubName->setPlainText(Preference::getString(SETTING::MARKET_SUBNAME, tr("Jl. Bantul\nYogyakarta")));
 
     ui->groupBoxTax->setChecked(Preference::getBool(SETTING::USE_TAX));
     ui->lineSalesTax->setText(Preference::getString(SETTING::TAX_VALUE));
@@ -91,7 +91,7 @@ void SettingWidget::setupLocale()
 {
     ui->comboApplicationLanguage->addItem("English", "en");
     ui->comboApplicationLanguage->addItem("Bahasa Indonesia", "id");
-    ui->comboApplicationLanguage->addItem("中文", "zh");
+    ui->comboApplicationLanguage->addItem(tr("Chinese"), "zh");
     GuiUtil::selectCombo(ui->comboApplicationLanguage, Preference::getString(SETTING::APPLICATION_LANGUAGE, "id"));
     QMetaEnum meta = QMetaEnum::fromType<QLocale::Language>();
     mAllLocales = QLocale::matchingLocales(QLocale::AnyLanguage, QLocale::AnyScript, QLocale::AnyCountry);
@@ -104,9 +104,9 @@ void SettingWidget::setupLocale()
     }
     //Fill
     setCurrentCombo(ui->comboApplicationLanguage, Preference::getString(SETTING::APPLICATION_LANGUAGE, "EN"));
-    setCurrentCombo(ui->comboLocale, Preference::getInt(SETTING::LOCALE_LANGUAGE, QLocale::Indonesian));
+    setCurrentCombo(ui->comboLocale, Preference::getInt(SETTING::LOCALE_LANGUAGE, QLocale::Chinese));
     localeLanguageChanged();
-    setCurrentCombo(ui->comboLocaleCounty, Preference::getInt(SETTING::LOCALE_COUNTRY, QLocale::Indonesia));
+    setCurrentCombo(ui->comboLocaleCounty, Preference::getInt(SETTING::LOCALE_COUNTRY, QLocale::China));
     ui->checkSign->setChecked(Preference::getBool(SETTING::LOCALE_USE_SIGN));
     ui->lineSign->setText(Preference::getString(SETTING::LOCALE_SIGN));
     ui->lineSign->setEnabled(ui->checkSign->isChecked());
@@ -150,9 +150,9 @@ void SettingWidget::setupPrinter()
     GuiUtil::selectCombo(ui->comboPrintCashierType, Preference::getInt(SETTING::PRINTER_CASHIER_TYPE));
     ui->comboPrintCashier->setCurrentText(Preference::getString(SETTING::PRINTER_CASHIER_NAME));
     ui->linePrintCashierDevice->setText(Preference::getString(SETTING::PRINTER_CASHIER_DEVICE));
-    ui->linePrintCashierTitle->setText(Preference::getString(SETTING::PRINTER_CASHIER_TITLE, "Sultan Minimarket"));
-    ui->plainPrintCashierSubtitle->setPlainText(Preference::getString(SETTING::PRINTER_CASHIER_SUBTITLE, "Jogonalan Lor RT 2 Bantul"));
-    ui->plainPrintCashierFooter->setPlainText(Preference::getString(SETTING::PRINTER_CASHIER_FOOTER, "Barang dibeli tidak dapat ditukar"));
+    ui->linePrintCashierTitle->setText(Preference::getString(SETTING::PRINTER_CASHIER_TITLE, tr("Sultan Minimarket")));
+    ui->plainPrintCashierSubtitle->setPlainText(Preference::getString(SETTING::PRINTER_CASHIER_SUBTITLE, tr("Jogonalan Lor RT 2 Bantul")));
+    ui->plainPrintCashierFooter->setPlainText(Preference::getString(SETTING::PRINTER_CASHIER_FOOTER, tr("Barang dibeli tidak dapat ditukar")));
     ui->spinCashierCpi10->setValue(Preference::getInt(SETTING::PRINTER_CASHIER_CPI10, 32));
     ui->spinCashierCpi12->setValue(Preference::getInt(SETTING::PRINTER_CASHIER_CPI12, 40));
     ui->checkPrintCashierCut->setChecked(Preference::getBool(SETTING::PRINTER_CASHIER_AUTOCUT));
